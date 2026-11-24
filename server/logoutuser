@@ -1,0 +1,6 @@
+Command:
+curl -X GET "https://arunrajecs24-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/djangoapp/logout"
+
+Output:
+{"userName": ""}
+HTTP_STATUS:200

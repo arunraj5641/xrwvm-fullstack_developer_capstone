@@ -1,0 +1,6 @@
+Command:
+curl -X POST "https://arunrajecs24-8000.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/djangoapp/login" -H 'Content-Type: application/json' -d '{"userName":"root","password":"<REDACTED>"}'
+
+Output:
+{"userName": "root", "status": "Authenticated"}
+HTTP_STATUS:200
